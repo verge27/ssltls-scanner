@@ -1,8 +1,8 @@
 # 🔐 SSL/TLS Scanner
 
-A Python-based scanner for detecting SSL/TLS misconfigurations, deprecated protocols, weak ciphers, and certificate issues.
+A Python-based scanner for detecting SSL/TLS misconfigurations, deprecated protocols, weak ciphers and certificate issues.
 
-This tool is designed for security engineers, sysadmins, and developers who want to audit public-facing HTTPS services for common SSL/TLS weaknesses—quickly and programmatically.
+This tool is designed for security engineers, sysadmins and developers who want to audit public-facing HTTPS services for common SSL/TLS weaknesses—quickly and programmatically.
 
 ---
 
@@ -130,7 +130,7 @@ MIT License. See `LICENSE` for details.
 
 ## 🤝 Contributions
 
-PRs welcome! Feel free to submit improvements, new vulnerability checks, or integrations.
+PRs welcome! Feel free to submit improvements, new vulnerability checks or integrations.
 
 ```
 
