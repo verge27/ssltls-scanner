@@ -1,10 +1,3 @@
-Here’s a more complete and polished `README.md` for your `ssltls-scanner` project, suitable for GitHub:
-
----
-
-### 📘 `README.md`
-
-````markdown
 # 🔐 SSL/TLS Scanner
 
 A Python-based scanner for detecting SSL/TLS misconfigurations, deprecated protocols, weak ciphers, and certificate issues.
